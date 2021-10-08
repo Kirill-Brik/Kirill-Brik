@@ -10,3 +10,4 @@
 ![node-js](https://user-images.githubusercontent.com/81375304/136477587-2b1d42f7-2d54-4bea-a637-085bcb7e9b8d.png)
 ![webpack](https://user-images.githubusercontent.com/81375304/136477364-8740a0e2-fe3d-4569-ae6d-3f906301bfcb.png)
 ![git](https://user-images.githubusercontent.com/81375304/136477670-e76f845e-dea9-4892-b2de-efa9158c2642.png)
+![visual-studio-code](https://user-images.githubusercontent.com/81375304/136478046-cd477656-c758-4624-967a-31c82c63144d.png)
