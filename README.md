@@ -10,6 +10,3 @@
 ![webpack](https://user-images.githubusercontent.com/81375304/136477364-8740a0e2-fe3d-4569-ae6d-3f906301bfcb.png)
 ![git](https://user-images.githubusercontent.com/81375304/136477670-e76f845e-dea9-4892-b2de-efa9158c2642.png)
 ![visual-studio-code](https://user-images.githubusercontent.com/81375304/136478046-cd477656-c758-4624-967a-31c82c63144d.png)
-### 🏆Моя статистика:
-![Kirill-Brik GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirill-Brik&hide=issues,contribs&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Brik&layout=compact&theme=github_dark)
